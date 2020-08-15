@@ -1,0 +1,14 @@
+.elementor-parallax {
+	overflow: hidden;
+	position: relative;
+}
+.elementor-parallax .layer {
+	position: absolute;
+	top: 0; left: 0;
+	min-height: 100%;
+	width: 100%;
+	background-size: 100% auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+	z-index: 0;
+}

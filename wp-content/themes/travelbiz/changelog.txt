@@ -1,0 +1,47 @@
+= 1.1.0 =
+* Product column style fixed.
+
+= 1.0.9 =
+* Style issues fixed.
+
+= 1.0.8 =
+* Breadcrumb file updated to fix Google search console warnings.
+* Default hover color updated.
+
+= 1.0.7 =
+* Category posts updated.
+* Theme info file updated.
+* Screenshot Updated.
+
+= 1.0.6 =
+* Multiple text-domain issues fixed.
+* Visible Focus color added in default for better Accessibility.
+* Added credit for TRT Customiz Pro in readme.
+* Functional errors fixed.
+* Style fixed.
+
+= 1.0.5 =
+* Minor functional issues fixed.
+* Style fixed.
+
+= 1.0.4 =
+* Added sticky sidebar  
+* Navigation menu update for accessibility.
+* Minor functional issues fixed.
+* Style fixed.
+
+= 1.0.3 =
+* Updated home section title and shape disable/enable option.
+* Style issues fixed.
+
+= 1.0.2 =
+* Compatibility issues fixed.
+* Style issues fixed.
+
+= 1.0.1 =
+* Packages section added.
+* Traveler's choice section added.
+* Style updated.
+
+= 1.0.0 =
+* Initial release.
